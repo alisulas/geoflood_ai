@@ -1,0 +1,22 @@
+{
+  "name": "GeoFloodAI - Cek Risiko Banjir",
+  "short_name": "GeoFlood",
+  "description": "Aplikasi prediksi risiko banjir, Cek potensi banjir property 5-10 tahun ke depan.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
